@@ -1,0 +1,13 @@
+# Ignore virtual environment folders
+venv/
+
+# Ignore generated files and directories
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Ignore environement variable file containing private key
+.env
